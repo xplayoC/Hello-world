@@ -1,0 +1,1 @@
+Se creo un programa en C para probar git
